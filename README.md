@@ -4,7 +4,7 @@
 - 🔭 I’m currently looking for a job
 - 🌱 I’m currently learning Javascript, React, Node.js
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,typescript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,ts,nextjs,mysql,nestjs)](https://skillicons.dev)
 
 <details>
   <summary>Github Stats ⚡</summary>
