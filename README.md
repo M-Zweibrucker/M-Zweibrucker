@@ -1,13 +1,9 @@
 <h1 align="center">Hey there Matheus</h1>
 <h3 align="center">Passionate About Technology and Innovative Solutions</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m-zweibrucker&label=Profile%20views&color=0e75b6&style=flat" alt="m-zweibrucker" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m-zweibrucker" alt="m-zweibrucker" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/matheus zweibrucker gonçalves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheus zweibrucker gonçalves" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/matheus-zweibrucker-gonçalves-198972161" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheus-zweibrucker-gonçalves-198972161" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
